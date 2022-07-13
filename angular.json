@@ -107,5 +107,7 @@
       }
     }
   },
-  "defaultProject": "crypto-town"
+  "cli": {
+    "analytics": "12ada412-f84a-4c96-89ca-cb200185157d"
+  }
 }
